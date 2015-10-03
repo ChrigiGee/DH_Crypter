@@ -37,6 +37,15 @@ A simple crypter I did in Delphi with the following functions:<br>
 <br>
 [!] Credits : 
 <br>
-[++] steve10120 [ RunPE ]<br>
-<br>
-Video : https://www.youtube.com/watch?v=EYhaZTVhSCg
+[++] steve10120 [RunPE]
+
+An image : 
+
+![image](http://doddyhackman.webcindario.com/images/dh_crypter.jpg)
+
+An video : 
+
+[![Alt text for your video](http://img.youtube.com/vi/EYhaZTVhSCg/0.jpg)](http://www.youtube.com/watch?v=EYhaZTVhSCg)
+
+Good Bye
+
